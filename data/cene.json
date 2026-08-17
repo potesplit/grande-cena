@@ -1,1 +1,150 @@
-[]
+[
+  {
+    "titolo": "Solito Porzio",
+    "sconti": {
+      "antipasto": 0,
+      "primi": 0,
+      "secondi": 0,
+      "contorni": 0,
+      "pizza": 0,
+      "panini": 0,
+      "frutta": 0,
+      "acqua": 0,
+      "caffe": 0,
+      "bibite": 0,
+      "birra": 0,
+      "vino": 0,
+      "liquori": 0,
+      "menu": 0,
+      "coperto": 0,
+      "dolci": 0
+    },
+    "persone": [
+      {
+        "nome": "Filipe",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 6.75,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Gianluca 🫪",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Ludovika",
+        "antipasto": 8.5,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 12.5,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "MC",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Uomo Falaschetti",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 9,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      }
+    ],
+    "speseCondivise": [
+      {
+        "descrizione": "Servizio ecc",
+        "tipo": "divisa",
+        "importo": 5.47,
+        "partecipanti": []
+      },
+      {
+        "descrizione": "Pizze Gianluca e Martina",
+        "tipo": "divisa",
+        "importo": 28,
+        "partecipanti": [
+          "Gianluca 🫪",
+          "MC"
+        ]
+      },
+      {
+        "descrizione": "Patatine",
+        "tipo": "divisa",
+        "importo": 15,
+        "partecipanti": [],
+        "colonna": "contorni"
+      }
+    ],
+    "pagatori": [
+      {
+        "nome": "Gianluca 🫪",
+        "importo": 77.72
+      }
+    ]
+  }
+]
