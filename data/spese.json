@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "nome": "Gianluca 🫪",
+    "descrizione": "Servizio ecc",
+    "importo": 5.47,
+    "partecipanti": [
+      "Filipe",
+      "Gianluca 🫪",
+      "Ludovika",
+      "MC",
+      "Uomo Falaschetti"
+    ],
+    "gruppoId": "gmsxmmfgirph9gh"
+  }
+]
