@@ -1,14 +1,5 @@
 [
   {
-    "nome": "Gianluca 🫪",
-    "descrizione": "Viennese",
-    "importo": 9,
-    "partecipanti": [
-      "Uomo Falaschetti"
-    ],
-    "gruppoId": "gmsxmvy0ych2iok"
-  },
-  {
     "nome": "Ludovika",
     "descrizione": "Mancia",
     "importo": 3,
@@ -46,5 +37,14 @@
       "Uomo Falaschetti"
     ],
     "gruppoId": "gmsxweft7t9vjcb"
+  },
+  {
+    "nome": "Uomo Falaschetti",
+    "descrizione": "Viennese",
+    "importo": 9,
+    "partecipanti": [
+      "Gianluca 🫪"
+    ],
+    "gruppoId": "gmsxmvy0ych2iok"
   }
 ]
