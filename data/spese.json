@@ -7,5 +7,44 @@
       "Uomo Falaschetti"
     ],
     "gruppoId": "gmsxmvy0ych2iok"
+  },
+  {
+    "nome": "Ludovika",
+    "descrizione": "Mancia",
+    "importo": 3,
+    "partecipanti": [
+      "Filipe",
+      "Gianluca 🫪",
+      "Ludovika",
+      "MC",
+      "Uomo Falaschetti"
+    ],
+    "gruppoId": "gmsxweft7t9vjcb"
+  },
+  {
+    "nome": "MC",
+    "descrizione": "Mancia",
+    "importo": 1,
+    "partecipanti": [
+      "Filipe",
+      "Gianluca 🫪",
+      "Ludovika",
+      "MC",
+      "Uomo Falaschetti"
+    ],
+    "gruppoId": "gmsxweft7t9vjcb"
+  },
+  {
+    "nome": "Uomo Falaschetti",
+    "descrizione": "Mancia",
+    "importo": 1,
+    "partecipanti": [
+      "Filipe",
+      "Gianluca 🫪",
+      "Ludovika",
+      "MC",
+      "Uomo Falaschetti"
+    ],
+    "gruppoId": "gmsxweft7t9vjcb"
   }
 ]
